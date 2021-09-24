@@ -9,3 +9,5 @@
 ### The additional libraries I have used here to complete my project ###
 * [pyttsx3](https://pypi.org/project/pyttsx3/)
 * [PyPDF2](https://pypi.org/project/PyPDF2/)
+
+### Use the Project_Documentation.pdf for further instructions
