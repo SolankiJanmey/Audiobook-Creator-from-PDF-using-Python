@@ -11,4 +11,8 @@
 * [PyPDF2](https://pypi.org/project/PyPDF2/)
 
 ### How to run
-* Execute the PythonSourceCode.py file, a GUI pallet will open click on "Browse and select the PDF file you want to process" button a dialog box will open which will ask to select a PDF File. Select the PDF file you want to process. It will then narrate the PDF file entirely and then will store the audiobook generated from the same PDF file in the current directory itself. The name of the audiobook file generated will be "Audiobook.mp3".
+  * Execute the PythonSourceCode.py file
+  * A GUI pallet will open click on "Browse and select the PDF file you want to process" button a dialog box will open which will ask to select a PDF File.
+  * Select the PDF file you want to process.
+  * It will then narrate the PDF file entirely and then will store the audiobook generated from the same PDF file in the current directory itself.
+  * The name of the audiobook file generated will be "Audiobook.mp3".
